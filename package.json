@@ -4,6 +4,12 @@
   "license": "MIT",
   "main": "card.js",
   "type": "module",
+  "description": "Get to know me! My coding, gaming and art information displayed in terminal!",
+  "author": {
+    "email": "canosantiagoh@gmail.com",
+    "name": "Santiago Cano",
+    "url": "https://github.com/canosantiago12"
+  },
   "scripts": {
     "dev": "nodemon card.js",
     "start": "node card.js"
@@ -20,5 +26,25 @@
   },
   "bin": {
     "scano-card": "card.js"
+  },
+  "homepage": "https://github.com/canosantiago12/scano-npx-card",
+  "keywords": [
+    "presentation",
+    "npx",
+    "card",
+    "santcano",
+    "santiago",
+    "cano",
+    "design",
+    "gaming",
+    "3d",
+    "blender",
+    "modeling",
+    "business card",
+    "steam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canosantiago12/scano-npx-card"
   }
 }
